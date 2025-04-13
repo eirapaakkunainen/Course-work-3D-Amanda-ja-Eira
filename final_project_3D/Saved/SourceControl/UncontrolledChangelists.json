@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/amand/Documents/GitHub/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/amand/Documents/GitHub/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/Fantasy_Free/Maps/Overview_BuiltData.uasset",
+				"C:/Users/amand/Documents/GitHub/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/Fantasy_Free/Maps/Overview.umap",
 				"/Users/eira/Documents/Unreal Projects/final_project_3D/Content/StarterContent/Particles/P_Fire.uasset"
 			]
 		}
