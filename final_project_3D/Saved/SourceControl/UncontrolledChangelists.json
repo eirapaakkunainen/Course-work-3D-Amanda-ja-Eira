@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/eira/GitHub/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/X9/B07I1DSWOJHFXLBP3V3JO3.uasset",
 				"C:/Users/Amanda/Documents/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/Dog/dogFixed.uasset",
 				"C:/Users/Amanda/Documents/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/Dog/dogFixed_Anim_Dog_001_rig_Dog_001_rig_Dog_001_idle.uasset",
 				"C:/Users/Amanda/Documents/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/Dog/dogFixed_Anim_Dog_001_rig_Dog_001_rig_Dog_001_run.uasset",
@@ -34,7 +35,6 @@
 				"C:/Users/Amanda/Documents/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/Cat/Texture_1.uasset",
 				"C:/Users/Amanda/Documents/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/Chicken/Texture_1.uasset",
 				"C:/Users/Amanda/Documents/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/SA/YAJ94G8UJ9X0I3HM4HDVP9.uasset",
-				"C:/Users/Amanda/Documents/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/Bone/bone_sized.uasset",
 				"C:/Users/Amanda/Documents/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/83/GAKAHN6C4JA5FCD1OZ2ESR.uasset",
 				"C:/Users/Amanda/Documents/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/Dog_Cat_/dogFixed_Anim_Dog_001_rig_Dog_001_rig_Dog_001_walk.uasset",
 				"C:/Users/Amanda/Documents/Course-work-3D-Amanda-ja-Eira/final_project_3D/Content/Dog_Cat_/dogFixed_Anim_Dog_001_rig_Dog_001_rig_Dog_001_run.uasset",
